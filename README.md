@@ -12,6 +12,4 @@ Some of the features are:
 - re-running the programming and seeing a different output
 
 For it is said:
-> This is part of a blockquote.
-> Here is another part
-> does this all work together? looks like i need to see what happens when this rolls over to new text so i just need to keep typing to see what happens but im not sure because i'm just writing a bunch of gibberish right now, hows it looking? lets see if this has been enough.
+> This is part of a blockquote.Here is another part does this all work together? looks like i need to see what happens when this rolls over to new text so i just need to keep typing to see what happens but im not sure because i'm just writing a bunch of gibberish right now, hows it looking? lets see if this has been enough.
